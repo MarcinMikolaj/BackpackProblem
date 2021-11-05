@@ -1,0 +1,13 @@
+//
+przedmiot1
+32
+12
+przedmiot2
+14
+3
+przedmiot3
+3
+5
+przedmiot4
+8
+3
